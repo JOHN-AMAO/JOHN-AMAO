@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JOHN-AMAO
 - 👀 I’m interested in Machine Learning, Al and Fullstack development
-- 🌱 I’m currently learning python, Tensorflow and Golang
+- I work with Javascript and Python, skilled in Nextjs, Express, Node and Django
+- 🌱 Learning -- 2024: Pytorch, OpenCV and fastai for ML, Golang for backend developement and maybe fastapi
 - 💞️ I’m looking to collaborate on startups solving hard problems and side projects
 - 📫 You can reach me at +2348035700479 or by email: amaojohn767@gmail.com
 
