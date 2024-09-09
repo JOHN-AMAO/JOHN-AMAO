@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center"> I'm a fullstack and AI integration developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-amao&label=Profile%20views&color=0e75b6&style=flat" alt="john-amao" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/johnamao4" target="blank"><img src="https://img.shields.io/twitter/follow/johnamao4?logo=twitter&style=for-the-badge" alt="johnamao4" /></a> </p>
 
-- 🔭 I’m currently working on [WorkPilot](https://wokpilot-production.up.railway.app/)
+- 🔭 I’m currently working on [looplearn](https://looplearn.app/)
 
 - 🌱 I’m currently learning **Go, Compilers, low level stuff**
 
 - 👨‍💻 All of my projects are available at [https://www.johnamao.dev/projects](https://www.johnamao.dev/projects)
 
-- 📝 I regularly write articles on [https://www.johnamao.dev/blog](https://www.johnamao.dev/blog)
+- 📝 I don't regularly write articles on [https://www.johnamao.dev/blog](https://www.johnamao.dev/blog)
 
 - 💬 Ask me about **Nextjs, Node, React**
 
