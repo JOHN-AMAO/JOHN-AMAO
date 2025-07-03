@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **AI, ML, Vector Databases**
 
-- 👨‍💻 All of my projects are available at [https://www.johnamao.dev/projects](https://www.johnamao.com/projects)
+- 👨‍💻 All of my projects are available at [https://www.johnamao.com/projects](https://www.johnamao.com/projects)
 
-- 📝 I don't regularly write articles on [https://www.johnamao.dev/blog](https://www.johnamao.com/blog)
+- 📝 I don't regularly write articles on [https://www.johnamao.com/blog](https://www.johnamao.com/blog)
 
 - 💬 Ask me about **Nextjs, Node, React**
 
 - 📫 How to reach me **amaojohn767@gmail.com**
 
-- 📄 Know about my experiences [https://www.johnamao.dev/resume](https://www.johnamao.com/resume)
+- 📄 Know about my experiences [https://www.johnamao.com/resume](https://www.johnamao.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
