@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/johnamao4" target="blank"><img src="https://img.shields.io/twitter/follow/johnamao4?logo=twitter&style=for-the-badge" alt="johnamao4" /></a> </p>
 
-- 🔭 I’m currently working on [looplearn](https://looplearn.app/)
+- 🌱 I’m currently learning **AI, ML, Vector Databases**
 
-- 🌱 I’m currently learning **Go, Compilers, low level stuff**
+- 👨‍💻 All of my projects are available at [https://www.johnamao.dev/projects](https://www.johnamao.com/projects)
 
-- 👨‍💻 All of my projects are available at [https://www.johnamao.dev/projects](https://www.johnamao.dev/projects)
-
-- 📝 I don't regularly write articles on [https://www.johnamao.dev/blog](https://www.johnamao.dev/blog)
+- 📝 I don't regularly write articles on [https://www.johnamao.dev/blog](https://www.johnamao.com/blog)
 
 - 💬 Ask me about **Nextjs, Node, React**
 
 - 📫 How to reach me **amaojohn767@gmail.com**
 
-- 📄 Know about my experiences [https://www.johnamao.dev/resume](https://www.johnamao.dev/resume)
+- 📄 Know about my experiences [https://www.johnamao.dev/resume](https://www.johnamao.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
